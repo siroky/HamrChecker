@@ -1,0 +1,10 @@
+!.gitkeep
+!.gitignore
+!*.dll
+[Oo]bj
+[Bb]in
+*.user
+*.suo
+*.[Cc]ache
+
+.vs
